@@ -1,0 +1,20 @@
+# Java
+*.class
+target/
+bin/
+
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
