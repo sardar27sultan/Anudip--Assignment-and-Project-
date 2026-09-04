@@ -7,11 +7,11 @@ import java.sql.SQLException;
 public class DBConnection {
 
     private static final String URL =
-            "jdbc:mysql://localhost:3306/gym_management";
+            "_YOUR_URL_";
 
-    private static final String USERNAME = "root";
+    private static final String USERNAME = "_USERNAME_";
 
-    private static final String PASSWORD = "root";
+    private static final String PASSWORD = "_PASSWORD _";
 
     private static Connection connection;
 
